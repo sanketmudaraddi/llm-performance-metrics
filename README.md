@@ -65,10 +65,6 @@ The program will output a structured JSON response, which includes the company, 
 
 If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit pull requests. All contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 
